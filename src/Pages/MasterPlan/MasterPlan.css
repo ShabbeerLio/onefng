@@ -1,0 +1,23 @@
+.MasterPlan {
+  padding: 3rem 0;
+  width: 100%;
+  margin-top: 80px;
+}
+
+.MasterPlan-main {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.MasterPlan-main img{
+  width: 100%;
+  object-fit: cover;
+}
+
+@media (min-width: 1200px) {
+  .MasterPlan-main {
+    max-width: 1140px;
+  }
+}

@@ -1,0 +1,28 @@
+.list-table table {
+  width: 100%;
+  border-collapse: collapse;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+.list-table th,
+.list-table td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+.list-table th:last-child,
+.list-table td:last-child {
+    border-left: 1px solid #ddd;
+}
+
+.list-table th {
+  background-color: #1a667a;
+  color: white;
+}
+
+.list-table h5{
+    text-align: center;
+    margin: 4rem 0rem 2rem 0px;
+}

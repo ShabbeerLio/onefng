@@ -1,0 +1,40 @@
+.location {
+  padding: 3rem 0;
+  width: 100%;
+  margin-top: 80px;
+}
+
+.location-banner img {
+  width: 100%;
+  object-fit: cover;
+  height: 40vh;
+}
+
+.Page-title h1 {
+  text-align: center;
+  color: #212121;
+  font-size: 36px;
+  padding-bottom: 10px;
+  font-weight: bold;
+  margin: 0;
+  text-transform: uppercase;
+  margin-bottom: 2rem;
+}
+
+.location-box iframe {
+  width: 100%;
+  height: 70vh;
+}
+
+@media only screen and (max-width: 680px) {
+  .Page-title h1 {
+    text-align: center;
+    color: #212121;
+    font-size: 25px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    margin: 0;
+    text-transform: uppercase;
+    margin-bottom: 1rem;
+  }
+}

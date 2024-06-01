@@ -1,0 +1,57 @@
+.PriceList {
+  padding: 3rem 0;
+  width: 100%;
+  margin-top: 80px;
+}
+
+.PriceList-main {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.pricelist-box {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+.pricelist-box h1 {
+  color: #212121;
+  font-size: 36px;
+  padding-bottom: 10px;
+  font-weight: bold;
+  margin: 0;
+  text-transform: uppercase;
+}
+
+.pricelist-box h4 {
+  color: #1a667a;
+  font-size: 20px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.pricelist-box span {
+  color: gray;
+  font-size: 15px;
+  line-height: 35px;
+  font-weight: bold;
+}
+.pricelist-box p {
+  color: gray;
+  font-size: 15px;
+  line-height: 35px;
+}
+
+@media (min-width: 1200px) {
+  .PriceList-main {
+    max-width: 1140px;
+  }
+}
+
+@media only screen and (max-width: 680px) {
+  .pricelist-table {
+    overflow: auto;
+  }
+}

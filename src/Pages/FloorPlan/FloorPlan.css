@@ -1,0 +1,46 @@
+.FloorPlan {
+  padding: 3rem 0;
+  width: 100%;
+  margin-top: 80px;
+  background-color: #f1f1f1;
+}
+
+.FloorPlan-main {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.floorplan-box {
+  display: flex;
+  gap: 1rem;
+}
+.floorplan-box img {
+  width: 100%;
+  object-fit: cover;
+  border: 1px solid #bfcaec;
+}
+
+.floorplan-box-image {
+  width: 50%;
+  margin-top: 1rem;
+}
+
+@media (min-width: 1200px) {
+  .FloorPlan-main {
+    max-width: 1140px;
+  }
+}
+
+@media only screen and (max-width: 680px) {
+    .floorplan-box {
+        flex-wrap: wrap;
+        gap: 0;
+      }
+      .floorplan-box-image {
+        width: 100%;
+        margin-top: 1rem;
+      }
+}
