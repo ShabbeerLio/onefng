@@ -253,7 +253,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #ffb000;
+  background-color: #1a667a;
   margin-bottom: 8px;
   z-index: 1;
 }
@@ -265,7 +265,7 @@
   height: 50px;
   width: 50px;
   border-radius: 50%;
-  background-color: #ffb000;
+  background-color: #1a667a;
   animation: shine 2s infinite;
   z-index: -1;
 }
@@ -291,7 +291,7 @@
   transition: 0.3s ease-in-out;
 }
 .fix-icon-enquery p:hover {
-  background-color: #ffb000;
+  background-color: #1a667a;
   color: black;
 }
 

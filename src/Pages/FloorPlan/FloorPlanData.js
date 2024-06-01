@@ -1,17 +1,17 @@
 const FloorPlanData = [
     {
-        id:1,
+        id: 1,
         cover1: require("../../Assets/FloorPlan/office-floor-plans-tower-A-scaled.jpg"),
-        alttag1:"fairfox eon",
+        alttag1: "One FNG Noida",
         cover2: require("../../Assets/FloorPlan/office-floor-plans-tower-B-scaled.jpg"),
-        alttag2:"fairfox eon Noida",
+        alttag2: "One FNG",
     },
     // {
     //     id:2,
     //     cover1: require("../../Assets/FloorPlan/floor5-1.jpg"),
-    //     alttag1:"eon noida",
+    //     alttag1:"One FNG Expressway",
     //     cover2: require("../../Assets/FloorPlan/floor5-2.jpg"),
-    //     alttag2:"fairfox eon commercial park noida",
+    //     alttag2:"One FNG Group 108",
     // },
     // {
     //     id:3,

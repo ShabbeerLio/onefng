@@ -45,12 +45,12 @@ const SiteVisit = (props) => {
             const script = document.createElement('script');
             script.id = gaScriptId;
             script.async = true;
-            script.src = 'https://www.googletagmanager.com/gtag/js?id=G-NMNPYY3GZ2';
+            script.src = 'https://www.googletagmanager.com/gtag/js?id=G-2JH3F7DMB0';
             document.head.appendChild(script);
 
             script.onload = () => {
                 gtag('js', new Date());
-                gtag('config', 'G-NMNPYY3GZ2');
+                gtag('config', 'G-2JH3F7DMB0');
             };
         }
     }, [props.title, props.descriptions, location.pathname]);

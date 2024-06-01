@@ -2,47 +2,47 @@ const GalleryData = [
     {
         id: 1,
         cover: require("../../Assets/Gallery/gallery1.jpg"),
-        alttag: "fairfox eon",
+        alttag: "One FNG Noida",
     },
     {
         id: 2,
         cover: require("../../Assets/Gallery/Gallery2.jpg"),
-        alttag: "fairfox eon Noida",
+        alttag: "One FNG",
     },
     {
         id: 3,
         cover: require("../../Assets/Highlights/hilights.jpg"),
-        alttag: "eon noida",
+        alttag: "One FNG Expressway",
     },
     {
         id: 4,
         cover: require("../../Assets/Homeplan/planes1.png"),
-        alttag: "fairfox eon commercial park noida",
+        alttag: "One FNG Group 108",
     },
     {
         id: 5,
         cover: require("../../Assets/Homeplan/Planes2.webp"),
-        alttag: "eye of noida",
+        alttag: "One FNG Project",
     },
     {
         id: 6,
         cover: require("../../Assets/Homeplan/planes3.png"),
-        alttag: "eon eye of noida",
+        alttag: "One FNG Sector 142 Noida",
     },
     {
         id: 7,
         cover: require("../../Assets/Homeplan/planes4.jpg"),
-        alttag: "fairfox noida",
+        alttag: "Group 108 One FNG",
     },
     {
         id: 8,
         cover: require("../../Assets/About/abouto.png"),
-        alttag: "eon project noida",
+        alttag: "One FNG Noida",
     },
     {
         id: 9,
         cover: require("../../Assets/Banner/bannero.png"),
-        alttag: "eon sector 140 noida",
+        alttag: "One FNG",
     },
 ]
 

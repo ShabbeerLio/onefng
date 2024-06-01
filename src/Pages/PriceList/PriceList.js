@@ -40,21 +40,21 @@ const PriceList = (props) => {
             dataLayer.push(arguments);
         }
 
-        // Load the Google Analytics script only once
-        const gaScriptId = 'ga-gtag';
-        if (!document.getElementById(gaScriptId)) {
-            const script = document.createElement('script');
-            script.id = gaScriptId;
-            script.async = true;
-            script.src = 'https://www.googletagmanager.com/gtag/js?id=G-NMNPYY3GZ2';
-            document.head.appendChild(script);
-
-            script.onload = () => {
-                gtag('js', new Date());
-                gtag('config', 'G-NMNPYY3GZ2');
-            };
-        }
-    }, [props.title, props.descriptions, location.pathname]);
+         // Load the Google Analytics script only once
+         const gaScriptId = 'ga-gtag';
+         if (!document.getElementById(gaScriptId)) {
+             const script = document.createElement('script');
+             script.id = gaScriptId;
+             script.async = true;
+             script.src = 'https://www.googletagmanager.com/gtag/js?id=G-2JH3F7DMB0';
+             document.head.appendChild(script);
+ 
+             script.onload = () => {
+                 gtag('js', new Date());
+                 gtag('config', 'G-2JH3F7DMB0');
+             };
+         }
+     }, [props.title, props.descriptions, location.pathname]);
 
     const plcData = [
         { id: '1', description: 'Basic Selling Price [BSP]', rate: '25,000/ - PSF' },

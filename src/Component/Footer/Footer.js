@@ -17,7 +17,7 @@ const Footer = (props) => {
             <div className='Footer-main'>
                 <div className="footer-box">
                     <div className="footer-item">
-                        <img src={footerimg} alt="" />
+                        <img src={footerimg} alt="One FNG Expressway" />
                         <p>Rera No : UPRERAPRJ211016</p>
                     </div>
                     <div className="footer-item">
@@ -41,7 +41,7 @@ const Footer = (props) => {
                         {/* <h3>Contact Us</h3> */}
                         <ul>
                             <li>
-                                <Link to='tel: +919821123006'>
+                                <Link to='tel: +918800150948'>
                                     <svg width="1em" height="1em" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" {...props}>
                                         <g fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2">
                                             <path strokeDasharray="64" strokeDashoffset="64" d="M8 3C8.5 3 10.5 7.5 10.5 8C10.5 9 9 10 8.5 11C8 12 9 13 10 14C10.3943 14.3943 12 16 13 15.5C14 15 15 13.5 16 13.5C16.5 13.5 21 15.5 21 16C21 18 19.5 19.5 18 20C16.5 20.5 15.5 20.5 13.5 20C11.5 19.5 10 19 7.5 16.5C5 14 4.5 12.5 4 10.5C3.5 8.5 3.5 7.5 4 6C4.5 4.5 6 3 8 3Z">
@@ -62,7 +62,7 @@ const Footer = (props) => {
                                             </path>
                                         </g>
                                     </svg>
-                                    9821123006
+                                    8800150948
                                 </Link>
                             </li>
                         </ul>
@@ -71,7 +71,7 @@ const Footer = (props) => {
                         <p>Block A, Plot No. 01, Sector 140A, Noida, Uttar Pradesh 201301</p>
                     </div>
                     <div className="footer-item">
-                        <p>info@fairfoxeonoida.com</p>
+                        <p>info@onefngproject.com</p>
                     </div>
                 </div>
             </div>

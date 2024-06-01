@@ -39,18 +39,18 @@ const MasterPlan = (props) => {
             dataLayer.push(arguments);
         }
 
-        // Load the Google Analytics script only once
+            // Load the Google Analytics script only once
         const gaScriptId = 'ga-gtag';
         if (!document.getElementById(gaScriptId)) {
             const script = document.createElement('script');
             script.id = gaScriptId;
             script.async = true;
-            script.src = 'https://www.googletagmanager.com/gtag/js?id=G-NMNPYY3GZ2';
+            script.src = 'https://www.googletagmanager.com/gtag/js?id=G-2JH3F7DMB0';
             document.head.appendChild(script);
 
             script.onload = () => {
                 gtag('js', new Date());
-                gtag('config', 'G-NMNPYY3GZ2');
+                gtag('config', 'G-2JH3F7DMB0');
             };
         }
     }, [props.title, props.descriptions, location.pathname]);
@@ -61,7 +61,7 @@ const MasterPlan = (props) => {
                 <div className="Page-title">
                     <h1>Master Plan</h1>
                 </div>
-                <img src={masterimg} alt="eon noida expressway" />
+                <img src={masterimg} alt="One FNG Noida" />
             </div>
         </div>
     )

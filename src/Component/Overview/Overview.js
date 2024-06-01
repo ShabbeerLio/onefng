@@ -55,51 +55,51 @@ const Overview = () => {
                                 responsive={responsiveOptions}
                             >
                                 <div className="category-card">
-                                    <img src={imag1} alt="eon noida" />
+                                    <img src={imag1} alt="One FNG" />
                                     <p>Fully Equipped Gym</p>
                                 </div>
                                 <div className="category-card">
-                                    <img src={imag2} alt="eye of noida" />
+                                    <img src={imag2} alt="One FNG Expressway" />
                                     <p>Kids Play Area</p>
                                 </div>
                                 <div className="category-card">
-                                    <img src={imag3} alt="eon eye of noida" />
+                                    <img src={imag3} alt="One FNG Group 108" />
                                     <p>Senior Citizens’ Pavilion</p>
                                 </div>
                                 <div className="category-card">
-                                    <img src={imag4} alt="fairfox eon commercial park noida" />
+                                    <img src={imag4} alt="One FNG Project" />
                                     <p>Flower Garden</p>
                                 </div>
                                 <div className="category-card">
-                                    <img src={imag5} alt="eon project noida" />
+                                    <img src={imag5} alt="One FNG Sector 142 Noida" />
                                     <p>Jogging/Walking Track</p>
                                 </div>
                                 <div className="category-card">
-                                    <img src={imag6} alt="eon project noida" />
+                                    <img src={imag6} alt="Group 108 One FNG" />
                                     <p>Salon/Spa</p>
                                 </div>
                                 <div className="category-card">
-                                    <img src={imag7} alt="eon project noida" />
+                                    <img src={imag7} alt="One FNG Noida" />
                                     <p>CCTV Surveillance</p>
                                 </div>
                                 <div className="category-card">
-                                    <img src={imag8} alt="eon project noida" />
+                                    <img src={imag8} alt="One FNG" />
                                     <p>24X7 Security</p>
                                 </div>
                                 <div className="category-card">
-                                    <img src={imag9} alt="eon project noida" />
+                                    <img src={imag9} alt="One FNG Expressway" />
                                     <p>Swimming Pool</p>
                                 </div>
                                 <div className="category-card">
-                                    <img src={imag10} alt="eon project noida" />
+                                    <img src={imag10} alt="One FNG Project" />
                                     <p>Multipurpose Hall</p>
                                 </div>
                                 <div className="category-card">
-                                    <img src={imag11} alt="eon project noida" />
+                                    <img src={imag11} alt="One FNG Sector 142 Noida" />
                                     <p>Badminton Court</p>
                                 </div>
                                 <div className="category-card">
-                                    <img src={imag12} alt="eon project noida" />
+                                    <img src={imag12} alt="Group 108 One FNG" />
                                     <p>Pharmacy</p>
                                 </div>
                             </ReactOwlCarousel>

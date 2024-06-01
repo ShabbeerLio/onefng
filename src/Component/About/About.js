@@ -24,7 +24,6 @@ const About = () => {
                 <div className="about-items">
                     <div className="about-left">
                         <div className="about-detail">
-                            {/* <h3>FAIRFOX EON NOIDA, Sector 140 Noida Expressway</h3> */}
                             <p>Welcome to FAIRFOX EON, where every feature is crafted to elevate your lifestyle to new heights of luxury and sophistication. Discover a world of unparalleled elegance, where thoughtful design and opulent amenities converge to create a living experience unlike any other.</p>
                             <p>With its unparalleled features and amenities, FAIRFOX EON redefines the concept of commercial spaces, offering a harmonious blend of functionality, aesthetics, and luxury. Elevate your business to new heights of success and prestige at FAIRFOX EON, where every detail is meticulously crafted to enhance your corporate experience. Welcome to a world of commercial excellence in Greater Noida's most prestigious address.</p>
                         </div>
@@ -35,7 +34,7 @@ const About = () => {
                         </div>
                     </div>
                     <div className="about-right">
-                        <img className="image2" src={Aboutimg} alt="fairfox eon Noida" />
+                        <img className="image2" src={Aboutimg} alt="One FNG Noida" />
                     </div>
                 </div>
             </div>
