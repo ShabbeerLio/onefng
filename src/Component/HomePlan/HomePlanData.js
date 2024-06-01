@@ -1,29 +1,29 @@
 const HomePlanData = [
     {
         id: 1,
-        title: "Grand Triple Height Entrance Lobby",
-        desc: "Make a lasting impression from the moment your clients and visitors step into FAIRFOX EON. Our grand triple height entrance lobby, standing tall at 30 feet, sets the stage for a prestigious business environment. Impress with elegance and sophistication as you welcome guests into a space that exudes professionalism and style.",
+        title: "Prime Location",
+        desc: "Located in Noida Sector 142 along the Expressway, One FNG provides direct connectivity to major commercial and residential areas, enhancing accessibility for businesses and customers alike.",
         cover: require("../../Assets/Homeplan/planes1.png"),
         alttag:"Group 108 One FNG"
     },
     {
         id: 2,
-        title: "Food Terraces",
-        desc: "Elevate the dining experience for your employees and clients with our exclusive food terraces. Whether it's a power lunch, casual meeting, or simply unwinding after a productive day, these inviting spaces provide the perfect setting to indulge in culinary delights. Enjoy al fresco dining with panoramic views, fostering camaraderie and collaboration in a relaxed ambiance.",
+        title: "Modern Office Spaces",
+        desc: " The project offers spacious office layouts with large floor plates, designed for flexibility to accommodate various business sizes. High-speed elevators and a state-of-the-art business center equipped with the latest technology ensure efficient and productive work environments.",
         cover: require("../../Assets/Homeplan/Planes2.webp"),
         alttag:"One FNG Sector 142 Noida"
     },
     {
         id: 3,
-        title: "Amphitheatre",
-        desc: "Engage, entertain, and inspire with our state-of-the-art amphitheatre, designed to host corporate events, product launches, and cultural performances. Create memorable experiences for your audience amidst the scenic backdrop of FAIRFOX EON. From corporate presentations to live entertainment, our amphitheatre offers a versatile platform to showcase your brand and captivate your audience.",
+        title: "Vibrant Retail Spaces",
+        desc: "The Hi-Street retail area is designed to create a lively shopping experience, featuring a mix of international and local brands, gourmet restaurants, cafes, and entertainment zones. The modern architecture and spacious layouts are intended to attract and maintain high footfall.",
         cover: require("../../Assets/Homeplan/planes3.png"),
         alttag:"One FNG Project"
     },
     {
         id: 4,
-        title: "Central Inner Grove and Mound",
-        desc: "Escape the hustle and bustle of the corporate world and immerse yourself in the tranquility of our central inner grove and mound. This serene oasis provides a refreshing retreat for employees and visitors alike, offering a peaceful sanctuary amidst lush greenery and calming water features. Foster creativity, relaxation, and well-being in a natural environment that rejuvenates the mind and soul.",
+        title: "Convenience",
+        desc: "The project includes multilevel parking facilities, ensuring ample parking space for tenants and visitors. Proximity to metro stations and seamless public transport access make commuting easy and convenient.",
         cover: require("../../Assets/Homeplan/planes4.jpg"),
         alttag:"One FNG Group 108"
     }

@@ -2,7 +2,6 @@ import React from 'react'
 import "./Footer.css"
 import footerimg from "../../Assets/logoo.png"
 import { Link } from 'react-router-dom'
-import { IoLogoWhatsapp } from "react-icons/io5";
 
 const Footer = (props) => {
 
@@ -18,7 +17,7 @@ const Footer = (props) => {
                 <div className="footer-box">
                     <div className="footer-item">
                         <img src={footerimg} alt="One FNG Expressway" />
-                        <p>Rera No : UPRERAPRJ211016</p>
+                        <p>Rera No : UPRERAPRJ279516</p>
                     </div>
                     <div className="footer-item">
                         {/* <h3>Useful Links</h3> */}
@@ -68,7 +67,7 @@ const Footer = (props) => {
                         </ul>
                     </div>
                     <div className="footer-item">
-                        <p>Block A, Plot No. 01, Sector 140A, Noida, Uttar Pradesh 201301</p>
+                        <p>Plot No. 1A, Block C, Sector 142, Noida, Uttar Pradesh 201305</p>
                     </div>
                     <div className="footer-item">
                         <p>info@onefngproject.com</p>
@@ -77,7 +76,7 @@ const Footer = (props) => {
             </div>
             <div className="footer-down">
                 <div className="footer-copyright">
-                    <p>©2024. Fairfox EON Noida All Rights Reserved. Disclaimer: This website is intended for informational purposes only and should not be considered the official site.</p>
+                    <p>©2024.  Disclaimer: This website is intended for informational purposes only and should not be considered the official site.</p>
                     {/* <p>Designed by :<Link href="https://globalitsources.com/">&#160; Global IT Sources</Link></p> */}
                 </div>
             </div>

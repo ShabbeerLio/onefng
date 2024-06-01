@@ -8,7 +8,7 @@ const HomePlanCard = ({ home }) => {
     return (
         <>
             <div className="homeplan-box" key={index}>
-                {index % 2 != 0 ? (
+                {index % 2 !== 0 ? (
                     <>
                         <div className="homeplan-left">
                             <h2>{home.title}</h2>

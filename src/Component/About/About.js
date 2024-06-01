@@ -18,14 +18,14 @@ const About = () => {
                 <h1>ONE FNG</h1>
                 <p>Rera No : UPRERAPRJ279516</p>
                 <span>Office Space and Retail Shop Noida Sector 142</span>
-                <h4>Office Space: ₹7599/sqft | Retail Shop: ₹23990/sqft</h4>
+                <h4>Office Space: ₹10,000/sqft | Retail Shop: ₹31,000/sqft</h4>
             </div>
             <div className="about-main">
                 <div className="about-items">
                     <div className="about-left">
                         <div className="about-detail">
-                            <p>Welcome to FAIRFOX EON, where every feature is crafted to elevate your lifestyle to new heights of luxury and sophistication. Discover a world of unparalleled elegance, where thoughtful design and opulent amenities converge to create a living experience unlike any other.</p>
-                            <p>With its unparalleled features and amenities, FAIRFOX EON redefines the concept of commercial spaces, offering a harmonious blend of functionality, aesthetics, and luxury. Elevate your business to new heights of success and prestige at FAIRFOX EON, where every detail is meticulously crafted to enhance your corporate experience. Welcome to a world of commercial excellence in Greater Noida's most prestigious address.</p>
+                            <p>The "One FNG" real estate project offers premium office and retail spaces strategically located in Noida Sector 142 along the Expressway. This development, spread over 15 acres, features modern design and state-of-the-art amenities, including high-speed elevators, multilevel parking, and a business center equipped with cutting-edge technology. </p>
+                            <p>The office spaces boast large floor plates and efficient layouts, while the Hi-Street retail area provides a dynamic shopping and dining experience. With easy access to major corporate hubs and residential areas, One FNG ensures convenience and connectivity for businesses and visitors alike.</p>
                         </div>
                         <div className="about-button">
                             <Link to="/site-visit" onClick={toTop}>

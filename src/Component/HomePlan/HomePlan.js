@@ -5,17 +5,11 @@ import HomePlanCard from './HomePlanCard'
 
 const HomePlan = () => {
 
-    const toTop = () => {
-        window.scrollTo({
-            top: 0,
-            behavior: 'auto'
-        });
-    }
     return (
         <div className='HomePlan'>
             <div className='HomePlan-main'>
-                {HomePlanData.map((item ,index) => (
-                    <HomePlanCard home={item} key={index}/>
+                {HomePlanData.map((item, index) => (
+                    <HomePlanCard home={item} key={index} />
                 ))}
             </div>
         </div>

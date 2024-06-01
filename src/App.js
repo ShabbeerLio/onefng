@@ -42,37 +42,37 @@ function App() {
             path="/"
             exact
             element={
-              <Home title={"One FNG - Commercial Property in Noida Sector 142 by Group 108"} descriptions={"One FNG is an IT/ITES Project in Noida Expressway Sector 142 by Group 108. One FNG Spread Across 15 Acres with 2 Towers G+37 &amp; G+15 Floors and A Low-rise retail space in every tower."} />} />
+              <Home title={"One FNG Noida | One FNG Group 108 | One FNG Expressway"} descriptions={"The One FNG project, crafted by Group 108, stands out for its exceptional infrastructure and prime location. Call us to schedule your Site Visit Today!"} />} />
           <Route
             path="/gallery"
             exact
             element={
-              <Gallery title={"One FNG - Commercial Property in Noida Sector 142 by Group 108"} descriptions={"One FNG is an IT/ITES Project in Noida Expressway Sector 142 by Group 108. One FNG Spread Across 15 Acres with 2 Towers G+37 &amp; G+15 Floors and A Low-rise retail space in every tower."} />} />
+              <Gallery title={"One FNG Noida | One FNG Group 108 | One FNG Expressway"} descriptions={"The One FNG project, crafted by Group 108, stands out for its exceptional infrastructure and prime location. Call us to schedule your Site Visit Today!"} />} />
           <Route
             path="/price-list"
             exact
             element={
-              <PriceList title={"One FNG - Commercial Property in Noida Sector 142 by Group 108"} descriptions={"One FNG is an IT/ITES Project in Noida Expressway Sector 142 by Group 108. One FNG Spread Across 15 Acres with 2 Towers G+37 &amp; G+15 Floors and A Low-rise retail space in every tower."} />} />
+              <PriceList title={"One FNG Noida | One FNG Group 108 | One FNG Expressway"} descriptions={"The One FNG project, crafted by Group 108, stands out for its exceptional infrastructure and prime location. Call us to schedule your Site Visit Today!"} />} />
           <Route
             path="/master-plan"
             exact
             element={
-              <MasterPlan title={"One FNG - Commercial Property in Noida Sector 142 by Group 108"} descriptions={"One FNG is an IT/ITES Project in Noida Expressway Sector 142 by Group 108. One FNG Spread Across 15 Acres with 2 Towers G+37 &amp; G+15 Floors and A Low-rise retail space in every tower."} />} />
+              <MasterPlan title={"One FNG Noida | One FNG Group 108 | One FNG Expressway"} descriptions={"The One FNG project, crafted by Group 108, stands out for its exceptional infrastructure and prime location. Call us to schedule your Site Visit Today!"} />} />
           <Route
             path="/floor-plan"
             exact
             element={
-              <FloorPlan title={"One FNG - Commercial Property in Noida Sector 142 by Group 108"} descriptions={"One FNG is an IT/ITES Project in Noida Expressway Sector 142 by Group 108. One FNG Spread Across 15 Acres with 2 Towers G+37 &amp; G+15 Floors and A Low-rise retail space in every tower."} />} />
+              <FloorPlan title={"One FNG Noida | One FNG Group 108 | One FNG Expressway"} descriptions={"The One FNG project, crafted by Group 108, stands out for its exceptional infrastructure and prime location. Call us to schedule your Site Visit Today!"} />} />
           <Route
             path="/location"
             exact
             element={
-              <Location title={"One FNG - Commercial Property in Noida Sector 142 by Group 108"} descriptions={"One FNG is an IT/ITES Project in Noida Expressway Sector 142 by Group 108. One FNG Spread Across 15 Acres with 2 Towers G+37 &amp; G+15 Floors and A Low-rise retail space in every tower."} />} />
+              <Location title={"One FNG Noida | One FNG Group 108 | One FNG Expressway"} descriptions={"The One FNG project, crafted by Group 108, stands out for its exceptional infrastructure and prime location. Call us to schedule your Site Visit Today!"} />} />
           <Route
             path="/site-visit"
             exact
             element={
-              <SiteVisit title={"One FNG - Commercial Property in Noida Sector 142 by Group 108"} descriptions={"One FNG is an IT/ITES Project in Noida Expressway Sector 142 by Group 108. One FNG Spread Across 15 Acres with 2 Towers G+37 &amp; G+15 Floors and A Low-rise retail space in every tower."} />} />
+              <SiteVisit title={"One FNG Noida | One FNG Group 108 | One FNG Expressway"} descriptions={"The One FNG project, crafted by Group 108, stands out for its exceptional infrastructure and prime location. Call us to schedule your Site Visit Today!"} />} />
         </Routes>
         <Footer />
       </BrowserRouter>

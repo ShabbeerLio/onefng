@@ -1,8 +1,8 @@
-import React, { useEffect } from 'react'
+import React  from 'react'
 import bannerimg from "../../Assets/Banner/bannero.png"
 import "./Banner.css"
 
-import { FaBriefcase, FaCartShopping, FaMugSaucer, FaBed } from "react-icons/fa6";
+import { FaBriefcase, FaCartShopping } from "react-icons/fa6";
 
 const Banner = () => {
 
@@ -26,7 +26,7 @@ const Banner = () => {
                         <div className="banner-card">
                             <FaCartShopping />
                             <div className="banner-card-detail">
-                                <h4>Retail Shop</h4>
+                                <h4>Retail Space</h4>
                                 <p>Lockable Retail Space</p>
                             </div>
                         </div>
