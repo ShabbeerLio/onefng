@@ -3,7 +3,7 @@ import "./Overview.css"
 import Form from '../Form/Form'
 import imag1 from "../../Assets/CAtegory/Warehouse-Gym_17f1c9ca3a7_large.jpg"
 import imag2 from "../../Assets/CAtegory/Kids Play Area.jpeg"
-import imag3 from "../../Assets/CAtegory/Senior Citizens’ Pavilion.jpg"
+import imag3 from "../../Assets/CAtegory/Senior Citizens.jpg"
 import imag4 from "../../Assets/CAtegory/Flower Garden.jpg"
 import imag5 from "../../Assets/CAtegory/Jogging.jpeg"
 import imag6 from "../../Assets/CAtegory/Salon.jpeg"
