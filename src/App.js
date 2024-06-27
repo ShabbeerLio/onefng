@@ -10,6 +10,7 @@ import PriceList from "./Pages/PriceList/PriceList";
 import MasterPlan from "./Pages/MasterPlan/MasterPlan";
 import FloorPlan from "./Pages/FloorPlan/FloorPlan";
 import SiteVisit from "./Pages/SiteVisit/SiteVisit";
+import Disclaimer from "./Pages/Disclaimer/Disclaimer";
 
 function App() {
 
@@ -73,6 +74,11 @@ function App() {
             exact
             element={
               <SiteVisit title={"One FNG Noida | One FNG Group 108 | One FNG Expressway"} descriptions={"The One FNG project, crafted by Group 108, stands out for its exceptional infrastructure and prime location. Call us to schedule your Site Visit Today!"} />} />
+          <Route
+            path="/disclaimer"
+            exact
+            element={
+              <Disclaimer title={"One FNG Noida | One FNG Group 108 | One FNG Expressway"} descriptions={"The One FNG project, crafted by Group 108, stands out for its exceptional infrastructure and prime location. Call us to schedule your Site Visit Today!"} />} />
         </Routes>
         <Footer />
       </BrowserRouter>

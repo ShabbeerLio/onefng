@@ -86,6 +86,30 @@
   margin: 0;
 }
 
+.footer-item-disclaimer p {
+  font-size: 14px;
+  display: flex;
+  justify-content: center;
+  color: white;
+  text-decoration: none;
+  margin: 0;
+}
+.footer-item-disclaimer .disclaimer {
+  font-size: 16px;
+  font-weight: 500;
+  cursor: pointer;
+  /* color: #283664; */
+}
+.footer-item-policy {
+  padding: 2rem 0;
+}
+.footer-item-policy a {
+  color: white;
+  font-size: 16px;
+  font-weight: 500;
+  text-decoration: none;
+}
+
 @media (min-width: 1200px) {
   .Footer-main,
   .footer-down {

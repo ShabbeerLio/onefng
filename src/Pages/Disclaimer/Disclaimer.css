@@ -1,0 +1,28 @@
+.Disclaimer {
+    padding: 3rem 0;
+    width: 100%;
+    margin-top: 80px;
+}
+
+.Disclaimer-main {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.Disclaimer-body h3,
+.Disclaimer-body h3{
+margin-top: 1rem;
+}
+.Disclaimer-body span{
+color: black;
+font-weight: 500;
+}
+
+@media (min-width: 1200px) {
+  .Disclaimer-main {
+    max-width: 1140px;
+  }
+}
